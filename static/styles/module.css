@@ -75,8 +75,8 @@
 }
 
 #chat-controls {
-  position: relative;
-}
+#  position: relative;
+#}
 
 .chat-sidebar #chat-controls .roll-type-select {
   flex-basis: auto;
